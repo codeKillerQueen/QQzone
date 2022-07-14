@@ -1,6 +1,6 @@
 # 我的网址大全
 ## 靓女的个人博客
-- [DOUBLE H](http://hh.daocat.digital/about/)
+- [DOUBLE H](http://hh.daocat.digital/)
 
 
 ## 图标
