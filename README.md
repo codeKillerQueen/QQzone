@@ -24,8 +24,8 @@
 
 
 ## 其他教程
-- https://blog.csdn.net/m0_59235508/article/details/122842675 
-- https://www.treesir.pub/post/docker-deploy-mailserver/
+- python自动发送邮件 https://blog.csdn.net/m0_59235508/article/details/122842675 
+- docker部署邮件服务器 https://www.treesir.pub/post/docker-deploy-mailserver/
   
 
 ## 其他工具
