@@ -31,3 +31,6 @@
 ## 其他工具
 - 非常多非常实用的小工具箱 https://tool.lu/
 - 小米手环表盘 https://amazfitwatchfaces.com/
+
+## 一些论坛
+- 解谜游戏论坛 https://www.chinaavg.com/
