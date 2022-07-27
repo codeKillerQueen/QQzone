@@ -31,6 +31,7 @@
 ## 其他工具
 - 非常多非常实用的小工具箱 https://tool.lu/
 - 小米手环表盘 https://amazfitwatchfaces.com/
+- ASCII字符生成 http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 
 ## 一些论坛
 - 解谜游戏论坛 https://www.chinaavg.com/
